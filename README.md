@@ -3,7 +3,9 @@ Basic SQL Commands
 
 ## SQL Applications:
 -DDL (create database)
+
 -DML: maintaining an already existing database
+
 -DCL: protects your database
 
 -A table is a database object which is comprised of rows and columns in SQL
