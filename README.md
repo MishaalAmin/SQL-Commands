@@ -5,15 +5,15 @@ Basic SQL Commands for MSSQLSERVER
 -DDL (create database)-DML: maintaining an already existing database-DCL: protects your database
 
 ## Basic Concepts
--A table is a database object which is comprised of rows and columns in SQL
+* A table is a database object which is comprised of rows and columns in SQL
 
--fields are basically columns
+* fields are basically columns
 
--Records-individual entry
+* Records-individual entry
 
--CRUD= create,read,update,delete operations
+* CRUD= create,read,update,delete operations
 
--where clause:  satisfies the condition
+* where clause:  satisfies the condition
 
 -Like operator is used to extract records where a particular pattern is present
 
